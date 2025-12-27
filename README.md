@@ -38,6 +38,22 @@ project/
 The script expects a JSON file containing monthly sales data structured as nested dictionaries.
 
 
+The script will print:
+   - Total sales per person across all months  
+   - Names of individuals whose total sales exceed 600  
+
+## Example Output
+
+```
+Total sales per person:
+Avik: 750
+Obaid: 530
+Tina: 750
+
+People with sales above 600:
+Avik
+Tina
+```
 
 If your file structure or field names differ, you may adjust the code accordingly.
 
