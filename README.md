@@ -12,7 +12,12 @@ This project demonstrates **file handling**, **nested dictionary** processing, d
 - Relies only on Python standard libraries. 
 
 ## Project Structure
-
+```
+project/
+    analyze_sales.py
+    sales.json
+    README.md
+```
 
 
 
